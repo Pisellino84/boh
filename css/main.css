@@ -15,4 +15,35 @@ body
 #Belo
 {
     border-radius: 50%;
+    width: 500px;
+}
+
+#vita
+{
+    background-color: #56ff50;
+    border: solid 10px;
+    border-color: black;
+    padding: 10px;
+    margin: 25px;
+}
+
+#amore
+{
+    border-radius: 50%;
+    width: 500px;
+}
+
+#lgbt
+{
+    background-color: #56ff50;
+    border: solid 10px;
+    border-color: black;
+    padding: 10px;
+    margin: 25px;
+}
+
+#urgay
+{
+    border-radius: 50%;
+    width: 500px;
 }
